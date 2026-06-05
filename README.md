@@ -203,11 +203,8 @@ Press **Play** in the Unity Editor to start the game.
 
 ---
 
-## 📚 Learning Resource
+## 📚Demo Video
 
-This project was developed while following and learning from the Unity tutorial below:
-
-YouTube Tutorial:
 https://www.youtube.com/watch?v=aOKNEMRKxng
 
 ---
