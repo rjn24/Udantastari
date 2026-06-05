@@ -12,6 +12,7 @@ public class ShipManager : MonoBehaviour
     {
         Debug.Log("HIT");
         GameplayManager.instance.IncrementScore();
+        
         Destroy(gameObject);
     }
     
